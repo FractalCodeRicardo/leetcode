@@ -29,7 +29,7 @@ public class Solution
 
     public void search(TreeNode r, int clvl, int maxLvl, int ll) {
         if (r == null) return;
-        Console.WriteLine(r.val + "*" + clvl + "*" + ll );
+       // Console.WriteLine(r.val + "*" + clvl + "*" + ll );
         if (clvl == maxLvl && value > r.val && ml > ll) {
            value = r.val;
             ml = ll;
