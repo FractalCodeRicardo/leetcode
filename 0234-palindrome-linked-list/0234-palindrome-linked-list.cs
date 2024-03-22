@@ -11,27 +11,29 @@
  */
 public class Solution
 {
-  public bool IsPalindrome(ListNode head)
-  {
-    var c = head;
-    var l = new List<int>();
-    var s = new Stack<int>();
-
-    while (c != null)
+    public bool IsPalindrome(ListNode head)
     {
-      l.Add(c.val);
-      s.Push(c.val);
 
-      c = c.next;
+        var l = new List<int>();
+        var s = new Stack<int>();
+
+        var c = head;
+
+        while (c != null)
+        {
+            l.Add(c.val);
+            s.Push(c.val);
+            c = c.next;
+        }
+
+
+        foreach (var v in l)
+        {
+            var sv = s.Pop();
+
+            if (sv != v) return false;
+        }
+
+        return true;
     }
-
-
-    foreach (var v in l)
-    {
-      var vs = s.Pop();
-
-      if (vs != v) return false;
-    }
-    return true;
-  }
 }
