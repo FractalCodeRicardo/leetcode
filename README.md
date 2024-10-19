@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FractalCodeRicardo/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FractalCodeRicardo/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
