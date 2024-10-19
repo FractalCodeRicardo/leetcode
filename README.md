@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FractalCodeRicardo/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
