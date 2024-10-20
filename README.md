@@ -69,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/FractalCodeRicardo/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
