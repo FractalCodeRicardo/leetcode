@@ -86,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/FractalCodeRicardo/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
