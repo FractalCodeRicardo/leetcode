@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/FractalCodeRicardo/leetcode/tree/master/0125-valid-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## String Matching
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/FractalCodeRicardo/leetcode/tree/master/0190-reverse-bits) |
 ## Linked List
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/FractalCodeRicardo/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
 ## Database
 |  |
@@ -94,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/FractalCodeRicardo/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
