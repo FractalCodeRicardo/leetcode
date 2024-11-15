@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/FractalCodeRicardo/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/FractalCodeRicardo/leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/FractalCodeRicardo/leetcode/tree/master/0326-power-of-three) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/FractalCodeRicardo/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/FractalCodeRicardo/leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
