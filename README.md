@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/FractalCodeRicardo/leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/FractalCodeRicardo/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/FractalCodeRicardo/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FractalCodeRicardo/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/FractalCodeRicardo/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/FractalCodeRicardo/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/FractalCodeRicardo/leetcode/tree/master/0326-power-of-three) |
