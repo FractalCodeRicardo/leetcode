@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/FractalCodeRicardo/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/FractalCodeRicardo/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 ## Simulation
 |  |
 | ------- |
