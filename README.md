@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
 | [0932-monotonic-array](https://github.com/FractalCodeRicardo/leetcode/tree/master/0932-monotonic-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/FractalCodeRicardo/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/FractalCodeRicardo/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/FractalCodeRicardo/leetcode/tree/master/0367-valid-perfect-square) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Database
 |  |
 | ------- |
