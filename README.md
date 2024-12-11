@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/FractalCodeRicardo/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/FractalCodeRicardo/leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/FractalCodeRicardo/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-more-than-5-students](https://github.com/FractalCodeRicardo/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/FractalCodeRicardo/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/FractalCodeRicardo/leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 ## Simulation
