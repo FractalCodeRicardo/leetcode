@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3379-score-of-a-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/FractalCodeRicardo/leetcode/tree/master/3636-check-balanced-string) |
 ## String Matching
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/FractalCodeRicardo/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FractalCodeRicardo/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/FractalCodeRicardo/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [3447-clear-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/FractalCodeRicardo/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/0258-add-digits) |
+| [3447-clear-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
