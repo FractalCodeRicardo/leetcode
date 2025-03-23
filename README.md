@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/FractalCodeRicardo/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0932-monotonic-array](https://github.com/FractalCodeRicardo/leetcode/tree/master/0932-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/FractalCodeRicardo/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/FractalCodeRicardo/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/FractalCodeRicardo/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/FractalCodeRicardo/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/FractalCodeRicardo/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/FractalCodeRicardo/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/FractalCodeRicardo/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FractalCodeRicardo/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/FractalCodeRicardo/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
